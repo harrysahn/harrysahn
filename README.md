@@ -9,6 +9,10 @@ Currently upskilling in modern data engineering and advanced analytics workflows
 * **Business Intelligence:** Power BI / Tableau (Dashboarding & Data Modeling)
 * **Cloud Data Warehousing:** Google BigQuery (GA4 & Log-Level Media Ingestion)
 * **Domain Expertise:** Programmatic Bid Optimization, Attribution Modeling, A/B Testing, Stakeholder Management
+* **Data Querying & Manipulation:** SQL (Advanced Joins, CTEs, Window Functions), Python (Pandas, NumPy)
+* **Statistics & Experimentation:** A/B Testing Architecture, Hypothesis Testing (t-tests, Chi-Square), Probability, SciPy
+* **Business Intelligence & Analytics:** Power BI / Tableau (Data Storytelling & UX Dashboarding)
+* **Cloud Computing Environments:** Google Cloud Platform (BigQuery) & Amazon Web Services (S3/Redshift basics)
 
 ### 📊 Current Project Focus
 I am currently documenting my daily technical progression in my [data-analytics-upskilling-2026](https://github.com/harrysahn/data-analytics-refresh-2026) repository. Check it out to see my daily code commits, SQL solutions, and upcoming data pipelines!
